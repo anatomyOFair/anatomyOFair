@@ -3,8 +3,6 @@
 
 🌱 im currently learning Three.js and React
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lmnlmn) 
-
 ## tech stack
 (0-3 years project experience. not claiming to be proficient or expert)
 
