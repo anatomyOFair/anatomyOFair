@@ -10,8 +10,8 @@
 ## stats 
 <div align="center">
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://stats-view-jswr.vercel.app/api?username=anatomyOfair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=🔥%20Grind%20Stats&cache_seconds=1800&" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anatomyOfair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://stats-view-jswr.vercel.app/api?username=anatomyOfair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=🔥%20Grind%20Stats" width="42%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anatomyOfair&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
   </div>
   <div style="margin-top: 20px;">
     <img src="https://stats-view-jswr.vercel.app/api/top-langs/?username=anatomyOfair&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages" />
