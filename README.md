@@ -14,7 +14,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anatomyOfair&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
   </div>
   <div style="margin-top: 20px;">
-    <img src="https://stats-view-jswr.vercel.app/api/top-langs/?username=anatomyOfair&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" width="30%" alt="Top Languages" />
+    <img src="https://stats-view-jswr.vercel.app/api/top-langs/?username=anatomyOfair&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" width="35%" alt="Top Languages" />
   </div>
 </div>
 
