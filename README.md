@@ -1,5 +1,5 @@
 ## welcome 
-🔭 im currently working on a portfolio website and a small browser extension
+🔭 im currently working on a portfolio website and a small browser extension (MERN)
 
 🌱 im currently learning Three.js and React
 
